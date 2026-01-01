@@ -7,7 +7,7 @@ I’m passionate about **building scalable backend systems, APIs, and full-stack
 ---
 
 ## 🔥 About Me  
-- 🎓 **BSc. CSIT Student (6th Semester)** at Amrit Science Campus, Nepal.  
+- 🎓 **BSc. CSIT Student (8th Semester)** at Amrit Science Campus, Nepal.  
 - 💻 Skilled in both **Python/Django (Backend)** and **MERN Stack (Full-Stack)**.  
 - 🐳 Exploring **DevOps (Docker, Docker Compose, Redis, Celery, CI/CD)**.  
 - 🌱 Currently improving: **React Hooks**, **Django REST APIs**, and **System Design**.  
